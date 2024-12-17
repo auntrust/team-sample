@@ -1,2 +1,2 @@
 サブブランチに追加テスト
-permalinkテスト
+Permalinkテスト
